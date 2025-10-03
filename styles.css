@@ -32,6 +32,10 @@ body {
     margin: 0 auto;
     padding: 0 24px;
 }
+:root {
+  --text-color: gold; /* or use hex #FFD700 */
+}
+
 
 /* ========== ANIMATIONS ========== */
 @keyframes fadeInUp {
