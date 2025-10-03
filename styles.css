@@ -32,9 +32,7 @@ body {
     margin: 0 auto;
     padding: 0 24px;
 }
-:root {
-  --text-color: gold; /* or use hex #FFD700 */
-}
+
 
 
 /* ========== ANIMATIONS ========== */
@@ -1097,6 +1095,9 @@ section {
 .contact-value {
     color: var(--text-color);
     transition: color 0.3s;
+}
+:root {
+  --text-color: gold; /* or use hex #FFD700 */
 }
 
 .contact-method:hover .contact-value {
