@@ -252,6 +252,9 @@ body {
     transition: all 0.3s;
     position: relative;
 }
+:root {
+  --text-color: #fff; /* white */
+}
 
 .nav-link svg {
     transition: transform 0.3s;
